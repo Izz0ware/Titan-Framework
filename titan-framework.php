@@ -62,6 +62,7 @@ require_once( TF_PATH . 'lib/class-option-number.php' );
 require_once( TF_PATH . 'lib/class-option-radio.php' );
 require_once( TF_PATH . 'lib/class-option-radio-image.php' );
 require_once( TF_PATH . 'lib/class-option-radio-palette.php' );
+require_once( TF_PATH . 'lib/class-option-repeatable.php' );
 require_once( TF_PATH . 'lib/class-option-save.php' );
 require_once( TF_PATH . 'lib/class-option-select.php' );
 require_once( TF_PATH . 'lib/class-option-select-categories.php' );
